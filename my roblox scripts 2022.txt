@@ -1,0 +1,1 @@
+require(10128234389).Trampoline("NameHere") -- Gain speed by jumping on this trampoline (my first script!)
